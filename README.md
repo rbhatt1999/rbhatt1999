@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://rbhatt1999.github.io/Portfolio/)
 
-- 💬 Ask me about **Javascript, react & redux**
+- 💬 Ask me about **JavaScript, React, Redux**
 
 - 📫 How to reach me **rbhatt199924@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://rbhatt1999.github.io/Portfolio/Documents/CURRICULAM%20VITAE.pdf)
 
-- ⚡ Fun fact **I love to sing, but only in bathroom**
+- ⚡ Fun fact **I love to sing, but only in the shower bathroom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
