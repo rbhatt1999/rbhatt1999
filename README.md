@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://rbhatt1999.github.io/Portfolio/Documents/CURRICULAM%20VITAE.pdf)
 
-- ⚡ Fun fact **I love to sing, but only in the shower bathroom**
+- ⚡ Fun fact **I love to sing, but only in the shower**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
