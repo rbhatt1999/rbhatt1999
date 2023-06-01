@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit bhatt</h1>
-<h3 align="center"> "I am an enthusiastic Full-stack Developer with a love for data structures and algorithms. Seeking impactful software development opportunities to my leverage skills in JavaScript, React, and Rails."</h3>
+<h3 align="center"> "I am an enthusiastic Full-stack Developer with a love for data structures and algorithms, seeking impactful software development opportunities to leverage my skills in JavaScript, React, and Rails."</h3>
 <img src="./grid-snake.svg" alt="image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbhatt1999&label=Profile%20views&color=0e75b6&style=flat" alt="rbhatt1999" /> </p>
