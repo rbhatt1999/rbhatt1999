@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit bhatt</h1>
 <h3 align="center"> "I am an enthusiastic Full-stack Developer with a love for data structures and algorithms. Seeking impactful software development opportunities to my leverage skills in JavaScript, React, and Rails."</h3>
-<img src="https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake.svg" alt="" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake.svg" alt="image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbhatt1999&label=Profile%20views&color=0e75b6&style=flat" alt="rbhatt1999" /> </p>
 
@@ -52,9 +52,11 @@
 ---
 
 <h2 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> GitHub Stats:</h2>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rbhatt1999&amp;theme=tokyonight&amp;&show_icons=true&locale=en&layout=compact" alt="rbhatt1999" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rbhatt1999&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;&show_icons=true&locale=en" alt="rbhatt1999" /></p>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rbhatt1999&amp;theme=tokyonight&amp;&show_icons=true&locale=en&layout=compact" alt="rbhatt1999" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=rbhatt1999&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;&show_icons=true&locale=en" alt="rbhatt1999" />
+</div>
 
 ---
 
@@ -63,6 +65,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Let's connect and forge the future together! </b> 😊 </em>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80" alt "type writing">
+  <br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Let's connect and forge the future together! </b> 😊 </em> </div>
