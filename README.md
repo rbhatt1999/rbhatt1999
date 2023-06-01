@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbhatt1999&label=Profile%20views&color=0e75b6&style=flat" alt="rbhatt1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbhatt1999" alt="rbhatt1999" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 100%" src="https://github-profile-trophy.vercel.app/?username=rbhatt1999" alt="rbhatt1999" /></a> </p>
 
 - 🔭 I’m currently working on [Home Stay App](https://github.com/rbhatt1999/stay-a-while-front-end)
 
