@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rohit bhatt</h1>
-<h3 align="center"> I'm a full-Stack Software Developer with a love for React and Redux. I'm a Tech enthusiast, try to solve DSA problems in my spare time. Open to new opportunities.</h3>
+<h3 align="center"> "I am an enthusiastic Full-stack Developer with a love for data structures and algorithms. Seeking impactful software development opportunities to my leverage skills in JavaScript, React, and Rails."</h3>
 <img src="https://raw.githubusercontent.com/yuvenalmash/yuvenalmash/output/grid-snake.svg" alt="" style="max-width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbhatt1999&label=Profile%20views&color=0e75b6&style=flat" alt="rbhatt1999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbhatt1999" alt="rbhatt1999" /></a> </p>
 
-- 🔭 I’m currently working on [TO-DO list](https://github.com/rbhatt1999/todo-list)
+- 🔭 I’m currently working on [Home Stay App](https://github.com/rbhatt1999/stay-a-while-front-end)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://rbhatt1999.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio.rohitweb.me/)
 
-- 💬 Ask me about **JavaScript, React, Redux**
+- 💬 Ask me about **JavaScript, React, Ruby on rails**
 
 - 📫 How to reach me **rbhatt199924@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://rbhatt1999.github.io/Portfolio/Documents/CURRICULAM%20VITAE.pdf)
+- 📄 Know about my experiences [Resume](https://portfolio.rohitweb.me/Resume.pdf)
 
 - ⚡ Fun fact **I love to sing, but only in the shower**
 
