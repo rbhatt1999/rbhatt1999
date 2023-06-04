@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rohit bhatt</h1>
-<h3 align="center"> "I am an enthusiastic Full-stack Developer with a love for data structures and algorithms, seeking impactful software development opportunities to leverage my skills in JavaScript, React, and Rails."</h3>
-<img src="./grid-snake.svg" alt="image">
+<h1 align="center">Hi 👋, I'm Rohit Bhatt</h1>
+<h3 align="center">Full-Stack Web Developer ✔ | Student at Microverse.org 🌟</h3>
+<h3 align="center"> "I'm a passionate developer specializing in JavaScript, React, and Ruby on Rails, dedicated to creating user-friendly web applications. Seeking impactful opportunities to contribute my skills and build remarkable projects."</h3>
+<img style="width: 100%"  src="./grid-snake.svg" alt="image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbhatt1999&label=Profile%20views&color=0e75b6&style=flat" alt="rbhatt1999" /> </p>
 
@@ -16,7 +17,7 @@
 
 - 👨‍💻 In my free time, I like to solve problems on [Leetcode](https://leetcode.com/rbhatt1999/)
 
-- 📄 Know about my experiences [Resume](https://portfolio.rohitweb.me/Resume.pdf)
+- 📄 Learn about my experiences [Resume](https://portfolio.rohitweb.me/Resume.pdf)
 
 - ⚡ Fun fact **I love to sing, but only in the shower**
 
