@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="width: 100%" src="https://github-profile-trophy.vercel.app/?username=rbhatt1999" alt="rbhatt1999" /></a> </p>
 
-- 🔭 I’m currently working on [Home Stay App](https://github.com/rbhatt1999/stay-a-while-front-end)
+- 🔭 I’m currently working on [Opinion Trading Platform](http://opinions.peepoye.com/)
 
-- 👨‍💻 All my projects are available on the [Portfolio](https://portfolio.rohitweb.me/)
+- 👨‍💻 All my projects are available on the [Portfolio](https://www.rohitweb.me/)
 
 - 💬 Ask me about **JavaScript, React, Ruby on rails**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 In my free time, I like to solve problems on [Leetcode](https://leetcode.com/rbhatt1999/)
 
-- 📄 Learn about my experiences [Resume](https://portfolio.rohitweb.me/Resume.pdf)
+- 📄 Learn about my experiences [Resume](https://www.rohitweb.me/assets/resume.pdf)
 
 - ⚡ Fun fact **I love to sing, but only in the shower**
 
