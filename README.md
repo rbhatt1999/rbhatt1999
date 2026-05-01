@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- Animated Name Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Rohit%20Bhatt&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20%26%20Web%20Systems&amp;descAlignY=51&amp;descAlign=50" width="100%"/>
+<!-- Wave header (no text — text rendered below as HTML so it never breaks) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=header" width="100%"/>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer+%F0%9F%9A%80;React+%E2%80%A2+Ruby+on+Rails+%E2%80%A2+JavaScript;Building+AI-Powered+Web+Systems;Open+to+High-Impact+Opportunities)](https://git.io/typing-svg)
+# 👋 Hi, I'm Rohit Bhatt
 
-<!-- Social badges -->
+### Full-Stack Engineer &nbsp;·&nbsp; React &nbsp;·&nbsp; Ruby on Rails &nbsp;·&nbsp; AI Systems
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=560&lines=Building+AI-Powered+Web+Systems+%F0%9F%9A%80;React+%7C+Ruby+on+Rails+%7C+JavaScript;Open+to+High-Impact+Opportunities)](https://git.io/typing-svg)
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=rbhatt1999&amp;label=Profile+Views&amp;color=6C63FF&amp;style=flat-square" alt="profile views"/>
   &nbsp;
