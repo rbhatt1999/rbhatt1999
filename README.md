@@ -1,70 +1,135 @@
-<h1 align="center">Hi 👋, I'm Rohit Bhatt</h1>
-<h3 align="center">Full-Stack Web Developer ✔</h3>
-<h3 align="center"> "I'm a passionate developer specializing in JavaScript, React, and Ruby on Rails, dedicated to creating user-friendly web applications. Seeking impactful opportunities to contribute my skills and build remarkable projects."</h3>
-<img style="width: 100%"  src="./grid-snake.svg" alt="image">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rbhatt1999&label=Profile%20views&color=0e75b6&style=flat" alt="rbhatt1999" /> </p>
+<!-- Animated Name Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rohit%20Bhatt&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20%26%20Web%20Systems&descAlignY=51&descAlign=50" width="100%"/>
 
-- 🔭 I’m currently working on [AI Adjudication Pipeline]
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer+%F0%9F%9A%80;React+%E2%80%A2+Ruby+on+Rails+%E2%80%A2+JavaScript;Building+AI-Powered+Web+Systems;Open+to+High-Impact+Opportunities)](https://git.io/typing-svg)
 
-- 👨‍💻 All my projects are available on the [Portfolio](https://www.rohitcodes.com/)
-
-- 💬 Ask me about **JavaScript, React, Ruby on rails**
-
-- 📫 How to reach me **rohit.bhatt.dev@gmail.com**
-
-- 👨‍💻 In my free time, I like to solve problems on [Leetcode](https://leetcode.com/rbhatt1999/)
-
-- 📄 Learn about my experiences [Resume](https://www.rohitcodes.com/assets/resume.pdf)
-
-- ⚡ Fun fact **I love to sing, but only in the shower**
-
----
-
-<h2 dir="auto"><a id="user-content--socials" class="anchor" aria-hidden="true" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Socials:</h2>
-<p dir="auto">
-<a href="https://www.linkedin.com/in/rohitbhatt-dev/" rel="nofollow"><img src="https://user-images.githubusercontent.com/112093825/224684949-e968548c-863b-428c-ac6d-44ea21d3298a.png" alt="LinkedIn" style=" height: 40px; width: 40px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@rbhatt199924" rel="nofollow"><img src="https://user-images.githubusercontent.com/112093825/224685858-1e59b843-1853-4ce1-a519-1dfbc64df8aa.png" alt="Medium" style=" height: 40px; width: 40px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/iamrb_24/" rel="nofollow"><img src="https://user-images.githubusercontent.com/112093825/224686392-b30dd7f2-6af2-4926-accc-bc1ea32cd24f.png" alt="Instagram" style=" height: 40px; width: 40px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Rohit_Bhatt_" rel="nofollow"><img src="https://user-images.githubusercontent.com/112093825/224686666-4b230724-e78d-4da4-9808-b95bde2134c4.png" alt="Twitter" style=" height: 40px; width: 40px;"></a>
+<!-- Profile views & social badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rbhatt1999&label=Profile+Views&color=6C63FF&style=flat-square" alt="profile views"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rohitbhatt-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://twitter.com/Rohit_Bhatt_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://medium.com/@rbhatt199924"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.rohitcodes.com/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:rohit.bhatt.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-<h2 align="left">Languages and Tools:</h2>
-<p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-
----
-
-<h2 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> GitHub Stats:</h2>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rbhatt1999&amp;theme=tokyonight&amp;&show_icons=true&locale=en&layout=compact" alt="rbhatt1999" />
-  
-<img src="https://github-readme-stats.vercel.app/api?username=rbhatt1999&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=false&amp;&show_icons=true&locale=en" alt="rbhatt1999" />
 </div>
 
 ---
 
-<h2 align="left">Random quotes</h2>
-<img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Engineer** with deep expertise in **JavaScript**, **React**, and **Ruby on Rails** — passionate about building clean, scalable, and user-centric web applications.
+
+Currently engineering an **AI Adjudication Pipeline** — applying machine learning workflows to real-world decision-making at scale.
+
+- 🔭 **Current Build:** AI Adjudication Pipeline
+- 🌐 **Portfolio:** [rohitcodes.com](https://www.rohitcodes.com/)
+- 📄 **Resume:** [Download PDF](https://www.rohitcodes.com/assets/resume.pdf)
+- 🧩 **Problem Solving:** [LeetCode](https://leetcode.com/rbhatt1999/)
+- 💬 **Ask me about:** React, Rails, REST APIs, System Design, AI Integration
+- ⚡ **Fun fact:** I only sing in the shower, but my code hits the right notes in production.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbhatt1999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhatt1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rbhatt1999&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rbhatt1999&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Rohit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rbhatt1999&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80" alt "type writing">
-  <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Let's connect and forge the future together! </b> 😊 </em> </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**Thanks for stopping by — drop a ⭐ if something sparked your interest!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitbhatt-dev/)
+
+</div>
