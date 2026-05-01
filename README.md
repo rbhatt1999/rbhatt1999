@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Bhatt</h1>
-<h3 align="center">Full-Stack Web Developer ✔ | Student at Microverse.org 🌟</h3>
+<h3 align="center">Full-Stack Web Developer ✔</h3>
 <h3 align="center"> "I'm a passionate developer specializing in JavaScript, React, and Ruby on Rails, dedicated to creating user-friendly web applications. Seeking impactful opportunities to contribute my skills and build remarkable projects."</h3>
 <img style="width: 100%"  src="./grid-snake.svg" alt="image">
 
